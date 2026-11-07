@@ -1,21 +1,40 @@
-# Python Lab 1
+# Python Lab Assignments
 
-**Student Name:** Bedina Dixit
+**Student Name:** Bedina Dixit  
 **Roll Number:** IC-2K24-25
 
 ## About
 
-This repository contains the Python Lab 1 programs completed as part of the Python lab assignment.
+This repository contains Python lab assignments completed as part of the Python practical course.
 
-## Lab1
+## Lab 1
 
-The `Lab1` folder contains the following Python programs:
+Contains basic Python programs covering variables, arithmetic operations, strings, and escape sequences.
 
-- Variable and Identifier Practice
-- Greeting Program
-- Arithmetic Operations
-- Celsius to Fahrenheit
-- String Manipulation
-- Escape Sequence Practice
+## Lab 2
 
-It also contains the `README.md` file with the aim, logic, and sample input/output for each program.
+Contains pattern printing programs using Python.
+
+## Lab 3
+
+Contains time and space complexity lab work.
+
+## Lab 5
+
+### Part A
+
+Dictionary-based Python programs:
+
+- Student Database
+- Employee Database
+- Library Record System
+- Word Frequency Counter
+- Phone Directory
+
+### Part B
+
+Dictionary output prediction questions.
+
+### Part C
+
+Python dictionary questions and answers.

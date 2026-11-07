@@ -117,4 +117,4 @@ Space complexity: O(1)
                                        Snippet 22 - Answer:
 Time complexity:  O(n) average, O(n^2) worst if hash collisions, where n=len(arr)
 Space complexity: O(k) where k = number of distinct elements, O(n) worst case
-Justification :Single pass with O(1) average dict operations, storing one entry per distinct value.
+Justification :Single pass with O(1) average dict o
